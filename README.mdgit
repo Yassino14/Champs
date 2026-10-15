@@ -1,0 +1,2 @@
+"Champs Nicotine Detox Tracker"  initgit add .git commit -m "first commit"git branch -M maingit remote add origin https://github.com/Yassino14/Champs.gitgit push -u origin main
+"Champs Nicotine Detox Tracker"  initgit add .git commit -m "first commit"git branch -M maingit remote add origin https://github.com/Yassino14/Champs.gitgit push -u origin main
